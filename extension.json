@@ -1,0 +1,27 @@
+[
+  {
+        "identifier": {
+            "id": "redhat.vscode-community-server-connector",
+            "uuid": "f505f7aa-0a4f-4618-beb3-f2a165319497"
+        },
+        "version": "0.26.4",
+        "location": {
+            "$mid": 1,
+            "fsPath": "c:\\Users\\tiburce.kouagou\\.vscode\\extensions\\redhat.vscode-community-server-connector-0.26.4",
+            "_sep": 1,
+            "path": "/c:/Users/tiburce.kouagou/.vscode/extensions/redhat.vscode-community-server-connector-0.26.4",
+            "scheme": "file"
+        },
+        "metadata": {
+            "id": "f505f7aa-0a4f-4618-beb3-f2a165319497",
+            "publisherId": "eed56242-9699-4317-8bc7-e9f4b9bdd3ff",
+            "publisherDisplayName": "Red Hat",
+            "targetPlatform": "undefined",
+            "isApplicationScoped": false,
+            "updated": false,
+            "isPreReleaseVersion": false,
+            "installedTimestamp": 1678810697139,
+            "preRelease": false
+        }
+    }
+]
