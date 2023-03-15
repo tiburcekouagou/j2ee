@@ -14,7 +14,7 @@
   <servlet-name>gallery</servlet-name>
   <servlet-class>myservlets.Galery</servlet-class>
 </servlet>
-<servlet>
+
 
  <!-- Maping des routes --> 
  
