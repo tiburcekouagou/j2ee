@@ -5,7 +5,7 @@
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
 </web-app>
-
+<!-- Création des routes de l'application -->
 <servlet>
   <servlet-name>about</servlet-name>
   <servlet-class>myservlets.About</servlet-class>
@@ -16,7 +16,8 @@
 </servlet>
 <servlet>
 
-  
+ <!-- Maping des routes --> 
+ 
  <servlet-mapping>
   <servlet-name>about</servlet-name>
   <url-pattern>/about</url-pattern>
